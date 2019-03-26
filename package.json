@@ -1,7 +1,7 @@
 {
-  "name": "boilermaker",
+  "name": "placid-books",
   "version": "1.0.0",
-  "description": "Some boilerplate code to get you started - get shakin'!",
+  "description": "An eCommerce website for children's books",
   "engines": {
     "node": ">= 7.0.0"
   },
