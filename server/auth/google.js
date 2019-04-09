@@ -18,7 +18,7 @@ const GoogleStrategy = require('passport-google-oauth').OAuth2Strategy
  * process.env.GOOGLE_CALLBACK = '/your/google/callback'
  */
 
-/* if (!process.env.GOOGLE_CLIENT_ID || !process.env.GOOGLE_CLIENT_SECRET) {
+if (!process.env.GOOGLE_CLIENT_ID || !process.env.GOOGLE_CLIENT_SECRET) {
 
   console.log('Google client ID / secret not found. Skipping Google OAuth.')
 
@@ -53,4 +53,4 @@ const GoogleStrategy = require('passport-google-oauth').OAuth2Strategy
     failureRedirect: '/login'
   }))
 
-} */
+}
