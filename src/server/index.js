@@ -57,8 +57,13 @@ const createApp = () => {
   // static file-serving middleware
   app.use(express.static(path.join(__dirname, '..', '..', 'public')))
 
+   // sends index.html
+   app.use('*', (req, res) => {
+    res.sendFile(path.join(__dirname, '..', '..', 'public/index.html'))
+  })
+
   // any remaining requests with an extension (.js, .css, etc.) send 404
-  .use((req, res, next) => {
+  app.use((req, res, next) => {
     if (path.extname(req.path).length) {
       const err = new Error('Not found')
       err.status = 404
@@ -68,10 +73,6 @@ const createApp = () => {
     }
   })
 
-  // sends index.html
-  app.use('*', (req, res) => {
-    res.sendFile(path.join(__dirname, '..', '..', 'public/index.html'))
-  })
 
   // error handling endware
   app.use((err, req, res, next) => {
