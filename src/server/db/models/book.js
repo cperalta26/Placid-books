@@ -13,7 +13,7 @@ const Book = db.define('book', {
     allowNull: false
   },
   description: {
-    type: Sequelize.STRING
+    type: Sequelize.TEXT
   },
   numOfPages: {
     type: Sequelize.INTEGER
