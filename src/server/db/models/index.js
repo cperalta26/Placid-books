@@ -1,6 +1,7 @@
 const User = require('./user')
 const Book = require('./book')
 const Author = require('./author')
+const Genre = require('./genre')
 /**
  * If we had any associations to make, this would be a great place to put them!
  * ex. if we had another model called BlogPost, we might say:
@@ -9,6 +10,10 @@ const Author = require('./author')
  */
 Book.belongsToMany(Author, {through: 'BookAuthor'})
 Author.belongsToMany(Book, {through: 'BookAuthor'})
+
+Book.belongsToMany(Genre, {through: 'BookGenre'})
+Genre.belongsToMany(Book, {through: 'BookGenre'})
+
 /**
  * We'll export all of our models here, so that any time a module needs a model,
  * we can just require it from 'db/models'
@@ -17,5 +22,7 @@ Author.belongsToMany(Book, {through: 'BookAuthor'})
  */
 module.exports = {
   User,
-  Book
+  Book,
+  Author,
+  Genre
 }
