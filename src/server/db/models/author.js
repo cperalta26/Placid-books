@@ -3,10 +3,14 @@ const db = require('../db')
 
 const Author = db.define('author', {
   firstName: {
-    type: Sequelize.STRING
+    type: Sequelize.STRING,
+    defaultValue: 'Unknown',
+    allowNull: false
   },
   lastName: {
-    type: Sequelize.STRING
+    type: Sequelize.STRING,
+    defaultValue: 'Author',
+    allowNull: false
   },
   aboutAuthor: {
     type: Sequelize.TEXT

@@ -9,11 +9,18 @@ const Book = db.define('book', {
   description: {
     type: Sequelize.TEXT
   },
+  publishedDate: {
+    type: Sequelize.DATEONLY,
+    allowNull: false,
+    defaultValue: Sequelize.NOW
+  },
   numOfPages: {
-    type: Sequelize.INTEGER
+    type: Sequelize.INTEGER,
+    allowNull: false
   },
   coverImg: {
-    type: Sequelize.STRING
+    type: Sequelize.STRING,
+    allowNull: false
   }
 })
 
