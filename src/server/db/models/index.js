@@ -2,12 +2,16 @@ const User = require('./user')
 const Book = require('./book')
 const Author = require('./author')
 const Genre = require('./genre')
+const Format = require('./format')
 /**
  * If we had any associations to make, this would be a great place to put them!
  * ex. if we had another model called BlogPost, we might say:
  *
  *    BlogPost.belongsTo(User)
  */
+Format.hasMany(Book)
+Book.belongsTo(Format)
+
 Book.belongsToMany(Author, {through: 'BookAuthor'})
 Author.belongsToMany(Book, {through: 'BookAuthor'})
 
@@ -24,5 +28,6 @@ module.exports = {
   User,
   Book,
   Author,
-  Genre
+  Genre,
+  Format
 }
