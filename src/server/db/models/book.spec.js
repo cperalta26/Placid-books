@@ -26,12 +26,25 @@ describe('Book model', () => {
       expect(book.dataValues).to.have.ownProperty('id')
     })
 
+    it('has a price col', () => {
+      expect(book.dataValues).to.have.ownProperty('price')
+    })
+
+    it('has a quantity col', () => {
+      expect(book.dataValues).to.have.ownProperty('quantity')
+    })
+
+    it('has availaibilty col', () => {
+      expect(book.dataValues).to.have.ownProperty('available')
+    })
+
     it('properties have correct data types', () => {
       expect(book.dataValues.id).to.be.a('number')
       expect(book.dataValues.numOfPages).to.be.a('number')
       expect(book.dataValues.title).to.be.a('string')
       expect(book.dataValues.description).to.be.a('string')
       expect(book.dataValues.coverImg).to.be.a('string')
+      expect(book.dataValues.available).to.be.a('boolean')
     })
   })// has correct data
 })// end describe('Book model') */
