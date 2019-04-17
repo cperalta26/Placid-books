@@ -3,6 +3,7 @@ const Book = require('./book')
 const Author = require('./author')
 const Genre = require('./genre')
 const Format = require('./format')
+const Publisher = require('./publisher')
 /**
  * If we had any associations to make, this would be a great place to put them!
  * ex. if we had another model called BlogPost, we might say:
@@ -11,6 +12,9 @@ const Format = require('./format')
  */
 Format.hasMany(Book)
 Book.belongsTo(Format)
+
+Publisher.hasMany(Book)
+Book.belongsTo(Publisher)
 
 Book.belongsToMany(Author, {through: 'BookAuthor'})
 Author.belongsToMany(Book, {through: 'BookAuthor'})
