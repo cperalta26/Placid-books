@@ -21,6 +21,16 @@ const Book = db.define('book', {
   coverImg: {
     type: Sequelize.STRING,
     allowNull: false
+  },
+  price: {
+    type: Sequelize.DECIMAL,
+    allowNull: false
+  },
+  quantity: {
+    type: Sequelize.INTEGER
+  },
+  available: {
+    type: Sequelize.BOOLEAN
   }
 })
 
