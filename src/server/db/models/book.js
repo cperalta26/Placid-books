@@ -23,7 +23,7 @@ const Book = db.define('book', {
     allowNull: false
   },
   price: {
-    type: Sequelize.DECIMAL,
+    type: Sequelize.FLOAT,
     allowNull: false
   },
   quantity: {

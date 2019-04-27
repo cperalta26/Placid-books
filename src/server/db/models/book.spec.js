@@ -49,6 +49,10 @@ describe('Book model', () => {
       expect(book.dataValues.numOfPages).to.be.a('number')
     })
 
+    it('the price col is a number', () => {
+      expect(book.dataValues.price).to.be.a('number')
+    })
+
     it('title col is a string', () => {
       expect(book.dataValues.title).to.be.a('string')
     })
