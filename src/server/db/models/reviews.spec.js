@@ -7,7 +7,7 @@ describe('Review model', () => {
   beforeEach( () => {
     return db.sync({force: true})
   })
-  describe('has correct data', () => {
+  describe('review model validations', () => {
     beforeEach(async () => {
       review = await Review.create({
         rating: 4.7,
