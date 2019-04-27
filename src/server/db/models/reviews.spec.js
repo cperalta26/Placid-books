@@ -7,7 +7,8 @@ describe('Review model', () => {
   beforeEach( () => {
     return db.sync({force: true})
   })
-  describe('review model validations', () => {
+
+  describe('Review model validations', () => {
     beforeEach(async () => {
       review = await Review.create({
         rating: 4.7,
@@ -29,5 +30,5 @@ describe('Review model', () => {
     it('reviewComment is a string', () => {
       expect(review.dataValues.reviewComment).to.be.a('string')
     })
-  })// end of has correct data
+  })// end of Review model validations
 })// end of Review model
