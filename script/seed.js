@@ -1,5 +1,5 @@
 const db = require('../src/server/db')
-const {User, Book} = require('../src/server/db/models')
+const {User, Book, Format} = require('../src/server/db/models')
 
 async function seed () {
   await db.sync({force: true})
@@ -11,6 +11,14 @@ async function seed () {
   ])
 
   console.log(`seeded ${users.length} user${users.length > 1 ? 's' : ''}`)
+
+  const formats = await Promise.all([
+    Format.create({
+      formatType: 'Hardcover'
+    })
+  ])
+
+  console.log(`seeded ${formats.length} format${formats.length > 1 ? 's' : ''}`)
 
   const books = await Promise.all([
     Book.create({
