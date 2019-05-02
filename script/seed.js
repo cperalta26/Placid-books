@@ -1,5 +1,5 @@
 const db = require('../src/server/db')
-const {User, Book, Format} = require('../src/server/db/models')
+const {User, Book, Format, Publisher} = require('../src/server/db/models')
 
 async function seed () {
   await db.sync({force: true})
@@ -19,6 +19,14 @@ async function seed () {
   ])
 
   console.log(`seeded ${formats.length} format${formats.length > 1 ? 's' : ''}`)
+
+  const publishers = await Promise.all([
+    Publisher.create({
+      publisherName: 'Random House Books for Young Readers'
+    })
+  ])
+
+  console.log(`seeded ${publishers.length} publisher${publishers.length > 1 ? 's' : ''}`)
 
   const books = await Promise.all([
     Book.create({

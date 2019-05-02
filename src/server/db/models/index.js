@@ -33,5 +33,6 @@ module.exports = {
   Book,
   Author,
   Genre,
-  Format
+  Format,
+  Publisher
 }
