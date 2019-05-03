@@ -15,6 +15,9 @@ async function seed () {
   const formats = await Promise.all([
     Format.create({
       formatType: 'Hardcover'
+    }),
+    Format.create({
+      formatType: 'Paperback'
     })
   ])
 
@@ -23,6 +26,9 @@ async function seed () {
   const publishers = await Promise.all([
     Publisher.create({
       publisherName: 'Random House Books for Young Readers'
+    }),
+    Publisher.create({
+      publisherName:  'Scholastic Paperbacks'
     })
   ])
 
@@ -37,7 +43,29 @@ async function seed () {
       coverImg: 'https://images-na.ssl-images-amazon.com/images/I/91HHxxtA1wL.jpg',
       price: 9.99,
       quantity: 1000,
-      available: true
+      available: true,
+      formatId: 1,
+      publisherId: 1
+    }),
+    Book.create({
+      title: 'The Wonky Donkey',
+      description: `Kids will love this cumulative and hysterical read-aloud
+
+      "I was walking down the road and I saw ...
+      A donkey,
+      Hee Haw!
+      And he only had three legs!
+      He was a wonky donkey."
+
+      Children will be in fits of laughter with this perfect read-aloud tale of an endearing donkey. By the book's final page, readers end up with a spunky, hanky-panky, cranky, stinky, dinky, lanky, honky-tonky, winky wonky donkey!`,
+      numOfPages: 24,
+      publishedDAte: '2010-05-01',
+      coverImg: 'https://images-na.ssl-images-amazon.com/images/I/71N4oeWwYlL.jpg',
+      price: 4.99,
+      available: true,
+      quantity: 2000,
+      formatId: 2,
+      publisherId: 2
     })
   ])
   console.log(`seeded ${books.length} book${books.length > 1 ? 's' : ''}`)
