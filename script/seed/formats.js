@@ -4,6 +4,9 @@ const formats = [
   },
   {
     formatType: 'Paperback'
+  },
+  {
+    formatType: 'Board book'
   }
 ]
 
