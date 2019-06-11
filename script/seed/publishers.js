@@ -7,6 +7,27 @@ const publishers = [
   },
   {
     publisherName: 'Firefly Books'
+  },
+  {
+    publisherName: 'Cartwheel Books'
+  },
+  {
+    publisherName: 'Candlewick Press'
+  },
+  {
+    publisherName: 'Dial Books'
+  },
+  {
+    publisherName: 'Harper Festival'
+  },
+  {
+    publisherName: 'Harper Collins'
+  },
+  {
+    publisherName: 'Majella Publishing'
+  },
+  {
+    publisherName: 'North-South Books'
   }
 ]
 
