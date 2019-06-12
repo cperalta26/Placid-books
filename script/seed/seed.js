@@ -1,5 +1,5 @@
 const db = require('../../src/server/db')
-const {User, Book, Format, Publisher} = require('../../src/server/db/models')
+const {User, Book, Format, Publisher, Author} = require('../../src/server/db/models')
 
 async function seed () {
   await db.sync({force: true})
@@ -21,10 +21,13 @@ async function seed () {
   const createdPublishers = await Publisher.bulkCreate(publishers)
   console.log(`seeded ${createdPublishers.length} publisher${createdPublishers.length > 1 ? 's' : ''}`)
 
-
   const {books} = require('./books')
   const createdBooks = await Book.bulkCreate(books)
   console.log(`seeded ${createdBooks.length} book${createdBooks.length > 1 ? 's' : ''}`)
+
+  const {authors} = require('./authors')
+  const createdAuthors = await Author.bulkCreate(authors)
+  console.log(`seeded ${createdAuthors.length} author${createdAuthors.length > 1 ? 's' : ''}`)
 
   console.log(`seeded successfully`)
 }
