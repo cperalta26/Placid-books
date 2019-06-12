@@ -89,6 +89,45 @@ const publishers = [
   {
     publisherName: 'Harry N. Abrams'
   },
+  {
+    publisherName: 'Clarion Books'
+  },
+  {
+    publisherName: 'Accord Publishing'
+  },
+  {
+    publisherName: 'Warne'
+  },
+  {
+    publisherName: 'Puffin Books'
+  },
+  {
+    publisherName: 'Zonderkidz'
+  },
+  {
+    publisherName: 'G.P. Putnam’s Sons Books for Young Readers'
+  },
+  {
+    publisherName: 'Forever Friends Books'
+  },
+  {
+    publisherName: 'Doubleday Books for Young Readers'
+  },
+  {
+    publisherName: 'Square Fish'
+  },
+  {
+    publisherName: 'American Girl'
+  },
+  {
+    publisherName: 'Familius'
+  },
+  {
+    publisherName: 'Golden Books'
+  },
+  {
+    publisherName: 'Simon & Schuster'
+  }
 ]
 
 module.exports = {
