@@ -244,6 +244,147 @@ const authors = [
     Amy is a contributor to public radio, YouTube (THE BECKONING OF LOVELY, THE MONEY TREE) and TED (7 NOTES ON LIFE).
 
     Amy resides on a tree-lined street in Chicago and online at whoisamy.com`
+  },
+  {
+    firstName: `Naomi`,
+    lastName: `Kleinberg`,
+    aboutAuthor: `Naomi Kleinberg is a children’s book editor and the author of many children’s books. She lives in New York City in an apartment so filled with books that there’s barely enough room for her family. By odd coincidence, her favorite foods—apples, avocados, and arugula—all begin with the letter A. And she absolutely adores working on and writing Sesame Street books.`
+  },
+  {
+    firstName: `Bill`,
+    lastName: `Martin Jr.`,
+    aboutAuthor: `(1916-2004) was an elementary-school principal, teacher, writer and poet, with doctorate in early childhood education. In addition to the beloved Brown Bear, Brown Bear, What Do You See?, Martin's books include Listen to the Rain and Knots on a Counting Rope.`
+  },
+  {
+    firstName: `Nancy`,
+    lastName: `Tillman`,
+    aboutAuthor: `Born in Birmingham, Alabama, Nancy spent most of her growing up years in Columbus, Georgia. After graduating from Rollins College with a degree in English Literature, Nancy co-founded an advertising agency in Dallas, Texas. She left the agency in the early 80s to start a family. As she often says, "I was very fortunate that my husband had a job that let me stay home and raise my children. It's what I dearly wanted to do."
+
+    Nancy self-published her first book, On the Night You Were Born, in 2005. Her goal with On the Night You Were Born, and subsequent books, has always been to give parents words to say what they feel about their children. Nancy's illustrations are created digitally using dozens of layers of illustrative elements. These layers are eventually merged to form a composite, at which point texture and mixed media are applied.
+
+    Nancy's books are published by Feiwel and Friends, an imprint of Macmillan. Thus far five of her books have been New York Times bestsellers.
+
+    Nancy lives in Portland, Oregon with her husband, a pug and a Swiss Mountain Dog. She'd have a giraffe if she could, but her husband won't let her.
+
+    Bibliography
+
+    On the Night You Were Born, 2005 New York Times Bestseller.
+
+    It's Time to Sleep, My Love (with Eric Metaxas) 2008
+
+    The Spirit of Christmas, 2009
+
+    Wherever You Are, My Love will Find You, 2010. New York Times Bestseller
+
+    Tumford the Terrible, 2011
+
+    The Crown on Your Head, 2011 New York Times Bestseller
+
+    Tumford's Rude Noises, 2012
+
+    Let There Be Light (with Desmond Tutu) 2013
+
+    I'd Know You Anywhere, My Love, 2013 New York Times Bestseller
+
+    The Heaven of Animals, 2014
+
+    You're Here for a Reason, 2015 New York Times Bestseller
+
+    You and Me and the Wishing Tree, 2016
+
+    Nancy Tillman is represented by Cathy Hemming, Cathy D. Hemming Literary Agency in association with McCormick & Williams.
+
+    Nancy loves to participate and have conversations with all the wonderful families that have enjoyed her books. So check her out on https://www.facebook.com/Nancy.Tillman.Collection or visit her website at nancytillman.com.`
+  },
+  {
+    firstName: `Caroline Jayne`,
+    lastName: `Church`,
+    aboutAuthor: ``
+  },
+  {
+    firstName: `Roger`,
+    lastName: `Priddy`,
+    aboutAuthor: `passion for educating children through fun, informative and engaging books has led him to create some of publishing's most enduring and successful non-fiction early learning books. Roger lives in London and has three children, who have been the inspiration behind many of his best publishing ideas.`
+  },
+  {
+    firstName: `Mo`,
+    lastName: `Willems`,
+    aboutAuthor: `Mo Willems (born February 11, 1968) is an American writer, animator, and creator of children's books.
+    Bio from Wikipedia, the free encyclopedia.`
+  },
+  {
+    firstName: `Lisa`,
+    lastName: `Mccourt`,
+    aboutAuthor: `Lisa McCourt is a bestselling author and ghostwriter currently specializing in the field of personal transformation. Her joyful passion for the power of words has propelled a diverse publishing career studded with industry awards, starred reviews, international honors, and mega-sales.
+
+    On the secret side of Lisa's publishing path, she's been the silent ghostwriter for many prominent thought-leaders.`
+  },
+  {
+    firstName: `Ellen`,
+    lastName: `Javernick`,
+    aboutAuthor: `Ellen Javernick has taught 1-3 grade classes for over 20 years. Her B.A. is from DePauw University. Her M.A. in Early Childhood Education is from the University of Northern Colorado. She has completed classes with Barbara Wise and is Lindamood-Bell trained. In addition to being a teacher, Ellen has written more than 20 books for children. She currently teaches second grade in Loveland, CO.`
+  },
+  {
+    firstName: `Esphyr`,
+    lastName: `Slobodkina`,
+    aboutAuthor: `Esphyr Slobodkina (the name is pronounced ess-FEER sloh-BOD-kee-nah) was born in the Siberian town of Chelyabinsk on Sept. 22, 1908. Esphyr immigrated to the United States on a student visa at the age of 29. She enrolled at the National Academy of Design, NYC, and in the 1930s, she worked painting lamp shades and soon after murals for the WPA. Esphyr was a founding member of the American Abstract Artists, which began amid controversy in 1936. In 1937 Slobodkina met the children's author Margaret Wise Brown. In an effort to find work as an illustrator, Slobodkina wrote and illustrated a story with collage called Mary And The Poodies to present to Brown. This began a new career for Slobodkina, who illustrated many children's stories for Ms. Brown (including Sleepy ABCs and the Big and Little series) while still continuing her work as an abstract artist. In her autobiography, (portions available through this web-site) Ms. Slobodkina wrote, "When Margaret died, I was left without a writer, and since she always insisted that she liked the way I told my stories, I took a deep breath and began to send them to my agent." Ms. Slobodkina took her responsibility as a children's book author seriously. In her memoir she wrote: "The verbal patterns and the patterns of behavior we present to children in these lighthearted confections are likely to influence them for the rest of their lives. These aesthetic impressions, just like the moral teachings of early childhood, remain indelible." Caps for Sale was first published in 1938. Since then it has sold more than two million copies. Today it is considered a children's book classic as generation after generation pass the story along to new readers. In sales it ranks with such classics as Good Night Moon, according to Publisher's Weekly. Caps for Sale, won a Lewis Carroll Shelf Award in 1958 and is memorialized in a painting by Ms. Slobodkina on permanent exhibition in the West Hartford Library, CT. Ms. Slobodkina wrote and illustrated numerous other books, including Mary and The Poodies (1937), The Wonderful Feast, (1955), The Clock (1956), The Long Island Ducklings (1961), and Pezzo the Peddler and the Circus Elephant, which was first published in 1967 and was reissued in 2002 as Circus Caps for Sale, to name a few. At the age of 88, Esphyr's primary focus became overseeing the production of musical storybook cassettes of all twenty of her children's books. At age 90, Esphyr designed a mini museum in Glen Head, Long Island, NY (through her Slobodkina Foundation) as a place where guests can visit and view more than 200 works of art, her handmade dolls and jewelry, as well as her complete collection of children's storybooks, including some original illustrations. Famed artist and author Esphyr Slobodkina was a leader of the abstract movement in the United States from the 1930s until her death at age 93 in July 2002. Slobodkina's works have received high acclaim. Her paintings, sculptures and literary works are part of the collections of The Metropolitan Museum, NY; The National Gallery in Washington, D.C; The Smithsonian; The Hecksher Museum, L.I., NY (where she has a permanent wing); The Whitney Museum, NY; The Wadsworth Museum, Hartford, CT; The Northeast Children's Literature Collection, Thomas J. Dodd Research Center, University of Connecticut, Storrs, CT; and more.`
+  },
+  {
+    firstName: `Alice`,
+    lastName: `Schertle`,
+    aboutAuthor: `is an award-winning poet whose much-loved books for children include All You Need for a Beach and All You Need for a Snowman. She lives in Plainfield, Massachusetts.`
+  },
+  {
+    firstName: `Ashley`,
+    lastName: `Spires`,
+    aboutAuthor: `Ashley Spires grew up in a little town on the coast of British Columbia called Tsawwassen with two parents, an older sister, eight cats, a dog and the occasional newt.
+    For a while she thought that animation was her future, but then photography caught her eye, which led her to bookmaking courses. These classes opened her eyes to the world of illustration and she never looked back. Delighted that there was, in fact, a career that allowed her to remain in her pajamas, hang out with her cats and be productive at the same time, she knew illustration was the perfect job for her.
+    Ashley spent time living in Toronto and Saskatoon before returning to her home turf of Delta, British Columbia where she now resides with three cats, a dog and her extremely patient fella.`
+  },
+  {
+    firstName: `Chris`,
+    lastName: `Van Allsburg`,
+    aboutAuthor: `Chris Van Allsburg is the winner of two Caldecott Medals, for Jumanji and The Polar Express, as well as the recipient of a Caldecott Honor Book for The Garden of Abdul Gasazi. The author and illustrator of numerous picture books for children, he has also been awarded the Regina Medal for lifetime achievement in children's literature. In 1982, Jumanji won the National Book Award and in 1996, it was made into a popular feature film. Chris Van Allsburg was formerly an instructor at the Rhode Island School of Design. He lives in Rhode Island with his wife and two children.`
+  },
+  {
+    firstName: `Sandra`,
+    lastName: `Boynton`,
+    aboutAuthor: `Sandra Boynton is a popular American cartoonist, children's author, songwriter, producer, and director. Since 1974, Boynton has written and illustrated over sixty children's books and seven general audience books, including five New York Times Bestsellers. More than 70 million of her books have been sold, "mostly to friends and family," she says. She has also written (with Michael Ford) and produced six albums of renegade children's music. Three of her six albums have been certified Gold [over 500,000 copies sold] and "Philadelphia Chickens," nominated for a Grammy, has been certified Platinum [over 1 million copies sold.] Boynton has also directed nine music videos of her songs, including the award-winning "One Shoe Blues" starring B. B. King, "When Pigs Fly" (animation) sung by Ryan Adams, "Alligator Stroll" starring Josh Turner, and "Tyrannosaurus Funk" (animation) sung by Samuel L. Jackson. She lives in rural New England, and her studio is in a barn with perhaps the only hippopotamus weathervane in America.`
+  },
+  {
+    firstName: `Patrice`,
+    lastName: `Karst`,
+    aboutAuthor: `Patrice Karst is the author of the bestselling, contemporary classic children's ( and adults'!) book The Invisible String, which has sold over 400,000 copies. It is the story of the String (made out of love) that connects us all.`
+  },
+  {
+    firstName: `Sandra`,
+    lastName: `Magsamen`,
+    aboutAuthor: `Sandra Magsamen has touched millions of people, one heart at a time. As a world-renowned and best-selling author, artist, and designer, Sandra's products have been warmly embraced for over 30 years. With over 100 million products and 3 million books sold worldwide, television specials, and as featured columnist on Oprah.com, Sandra uses her own creativity and spirit to design gifts, books, and collections that help people express themselves and connect with one another.`
+  },
+  {
+    firstName: `Anna`,
+    lastName: `Dewdney`,
+    aboutAuthor: `Anna Dewdney was an award-winning children's-book author, illustrator, teacher, mother, and enthusiastic proponent of literacy and reading aloud to children. She was the author of the bestselling Llama Llama Red Pajama series of picturebooks, among many others. She lived with her partner Reed Duncan in Vermont where she worked, gardened, and spent time with her daughters and dogs. Anna died in 2016.`
+  },
+  {
+    firstName: `Hoda`,
+    lastName: `Kotb`,
+    aboutAuthor: `Hoda Kotb is the Daytime Emmy Award, Edward R. Murrow Award, and duPont-Columbia Award-winning Today show co-anchor and Dateline NBC correspondent. Hoda is the author of two adult New York Times bestselling books, including Hoda: How I Survived War Zones, Bad Hair, Cancer, and Kathie Lee. Of all her accomplishments, her proudest moment is the adoption of a baby girl, Haley Joy, in February 2017. She lives in New York City with her boyfriend, Joel Schiffman.`
+  },
+  {
+    firstName: `Jory`,
+    lastName: `John`,
+    aboutAuthor: `Jory John is a #1 New York Times bestselling author and two-time E.B. White Read-Aloud Honor recipient.
+
+    Jory's work includes the #1 New York Times bestselling picture book, "The Good Egg," and the #2 New York Times bestselling picture book, "The Bad Seed." He is also the author of the popular picture books, "Penguin Problems" and "Giraffe Problems," the award-winning Goodnight Already! series, the New York Times bestselling Terrible Two series, the recent picture books "Quit Calling Me a Monster!" and "Can Somebody Please Scratch My Back?" and the international bestseller "All my friends are dead," among many other books for both children and adults. Jory's forthcoming picture books, in 2019, include "That's What Dinosaurs Do!", illustrated by his frequent collaborator, Pete Oswald.
+
+    Jory's books have won numerous state book awards, most recently the North Carolina Children's Book Award, the Florida Sunshine State Reading Award, the Dorothy Canfield Fisher Award of Vermont, the Louisiana Young Readers Choice Award, the Volunteer State Book Award of Tennessee, the North Dakota Library Association Flicker Tale Award, the South Carolina Children's Book Award, the Oregon Spirit Book Award Honor Prize, and his work was shortlisted for the Texas Bluebonnet Award. His books were also twice-nominated for the prestigious Kate Greenaway Medal in England.
+
+    In addition to the books mentioned here, Jory has written for the New York Times, the Guardian, the San Francisco Chronicle, the Believer, McSweeney's Internet Tendency, and BuzzFeed, among many other publications. His work has also been featured in The Best American Nonrequired Reading, The Best of McSweeney's Internet Tendency, Reader's Digest, and more.
+
+    For more than six years, Jory worked as the programs director at 826 Valencia, a nonprofit writing and educational center in San Francisco's Mission District, founded by Dave Eggers. In that time, he conceptualized and edited, "Thanks and Have Fun Running the Country: Kids' Letters to President Obama," which was featured on "This American Life."
+
+    Find Jory at www.joryjohn.com or on Twitter @IamJoryJohn`
   }
 ]
 
