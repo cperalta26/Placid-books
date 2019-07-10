@@ -138,6 +138,112 @@ const authors = [
     firstName: 'Jean',
     lastName: 'Reagan',
     aboutAuthor: `JEAN REAGAN was born in Alabama but spent most of her childhood in Japan. She now lives in Salt Lake City with her husband. In the summers, they serve as backcountry volunteers in Grand Teton National Park in Wyoming.`
+  },
+  {
+    firstName: `Brandon`,
+    lastName: `Walden`,
+    aboutAuthor: `Brandon Walden is a husband and a father of 5 beautiful daughters. He and his family live in Northern California. Brandon often says that "Seeds and Trees" is his story, cleverly disguised as a children's book. Brandon and his wife founded The Treasured Tree, LLC (www.thetreasuredtree.com) to be a platform that would host and create content for the child like part in all of us. They encourage families through video, music, books and speaking engagements.
+
+    Fun facts:
+    When Brandon is not speaking or writing other books you will likely find him traveling the country with his family. The Walden's have taken many road trips. One of the roads trips took them over 16,000 miles, and through 36 states over the course of nearly a year.
+
+    Brandon originally planned to attend art school to become an art therapist. However, he ended up traveling throughout Central America after his senior year in high school to do missions and humanitarian work.
+
+    Brandon and his wife, Stephanie, have known each other for over 25yrs. They were great friends in high school but did not date until their twenties.
+
+    Brandon is originally from South Carolina and hates extreme heat. So, he moved to Kansas City in 2011 to escape the hot summers and intense humitidity. However, the day he unpacked the moving truck in Kansas City... it was 106 degrees. After 7 years in Kansas City and enough of the heat...he moved to Redding, California. His first summer there the hottest day was 117. (Someone, please tell Brandon where he can find 78 degrees all year round).
+
+    Brandon has drafts and synopsis written for 3 other children's book and is presently writing a book for men about becoming more child-like.`
+  },
+  {
+    firstName: `Jimmie`,
+    lastName: `Davis`,
+    aboutAuthor: `Jimmie Davis was a well-known recording artist and one of the biggest country music stars of his era. On February 4, 1940 he recorded You Are My Sunshine which immediately became an international hit.`
+  },
+  {
+    firstName: `Annie`,
+    lastName: `Kubler`,
+    aboutAuthor: ``
+  },
+  {
+    firstName: `Dr.`,
+    lastName: `Seuss`,
+    aboutAuthor: `"A person's a person, no matter how small," Theodor Seuss Geisel, a.k.a. Dr. Seuss, would say. "Children want the same things we want. To laugh, to be challenged, to be entertained and delighted."
+
+    Brilliant, playful, and always respectful of children, Dr. Seuss charmed his way into the consciousness of four generations of youngsters and parents. In the process, he helped millions of kids learn to read.
+
+    Dr. Seuss was born Theodor Geisel in Springfield, Massachusetts, on March 2, 1904. After graduating from Dartmouth College in 1925, he went to Oxford University, intending to acquire a doctorate in literature. At Oxford, Geisel met Helen Palmer, whom he wed in 1927. Upon his return to America later that year, Geisel published cartoons and humorous articles for Judge, the leading humor magazine in America at that time. His cartoons also appeared in major magazines such as Life, Vanity Fair, and Liberty. Geisel gained national exposure when he won an advertising contract for an insecticide called Flit. He coined the phrase, "Quick, Henry, the Flit!" which became a popular expression.
+
+    Geisel published his first children's book, And to Think That I Saw It on Mulberry Street, in 1937, after 27 publishers rejected it.
+
+    Winner of the Pulitzer Prize in 1984, an Academy Award, three Emmy Awards, three Grammy Awards, and three Caldecott Honors, Geisel wrote and illustrated 44 books. While Theodor Geisel died on September 24, 1991, Dr. Seuss lives on, inspiring generations of children of all ages to explore the joys of reading.`
+  },
+  {
+    firstName: `D.J.`,
+    lastName: `Steinberg`,
+    aboutAuthor: `David "D.J." Steinberg was inspired to write children's books after he began tripping over them in a house with three loud boys and about 3,000 books. Now he has published 14 of his own, which have together sold over 500,000 copies, have been included in national book fairs and advanced reader lists, and garnered starred reviews and awards. They have ranged from funny poems to picture books to his latest popular graphic novel series, The Adventures of Daniel Boom AKA Loud Boy.
+
+    Not that entertaining children was a new thing for David, who has spent 30 years as an executive, producer and artist on more than fifteen major feature animated movies, including Meet the Robinsons, Mulan, Hercules, Tarzan, Cats Don't Dance, An American Tail, The Land Before Time, and Secret of NIMH. Serving these days as the Head of Studio for Starz Animation Toronto, David is overseeing production of feature films like Tim Burton's 9 (recent Focus Features release) and Elton John's Gnomeo & Juliet (Disney/Rocket Pictures).
+
+    Raised in Chicago, David attended Northwestern University before heading west. After hanging out for 25 years in Los Angeles, he is now residing in Toronto, in a country called Canada, with his wife, Nily, and his three favorite critics, Daniel, Micah, and Noah.
+
+    Books to date (more info at www.djsteinberg.com):
+
+    HUMOROUS POETRY
+    Grasshopper Pie and Other Poems, 2004
+    The Monster Mall and Other Spooky Poems, 2004
+    Club Pet and Other Funny Poems, 2005
+    Caveman Manners and Other Polite Poems, 2006
+
+    PICTURE BOOKS
+    Theo's Thanksgiving, 2006
+    The Turkey Ball, 2005
+    The Witches' Ball, 2007
+    The Snow Ball, 2007
+    The Bunny Ball, 2008
+    The Beach Ball, 2008
+
+    GRAPHIC NOVELS
+    The Adventures of Daniel Boom AKA Loud Boy #1: Sound Off!, 2008
+    The Adventures of Daniel Boom AKA Loud Boy #2: Mac Attack!, 2008
+    The Adventures of Daniel Boom AKA Loud Boy #3: Game On!, 2009
+    The Adventures of Daniel Boom AKA Loud Boy #4: Grow Up!, 2010`
+  },
+  {
+    firstName: `Natasha`,
+    lastName: `Wing`,
+    aboutAuthor: `Natasha Wing was born in Connecticut and now lives in Fort Collins, Colorado. After graduating from Arizona State University, she worked in advertising for a number of years. It wasn't until 1991 that she decided to write children's books. Luckily she sold her first book within six months and has been writing children's books and articles ever since. Some of her books have even ended up on bestseller lists, including the wildly popular The Night Before series.
+
+    "I'm curious about many things- people, holidays, underdogs, little known historic figures - and translate my excitement for a topic into books for kids to enjoy. Story ideas are popping into my head all the time, so you never know what my next book will be. But that's what's so fun about writing."
+
+    To find out more about Natasha Wing go to www.natashawing.com.
+
+    Favorite Children's Books: The Polar Express (I have a signed copy!), Charlie and the Chocolate Factory, The Cat in the Hat, The Golden Compass, Harry Potter; Favorite Season: Fall; Favorite Tree: Maple; Favorite Colors: Cranberry red and fuscia pink; Pet: Purrsia the lynx point kitty Professional: Member of Society of Children's Book Writers & Illustrators, Children's Book Insider, CCIRA.`
+  },
+  {
+    firstName: `Amy`,
+    lastName: `Krouse Rosenthal`,
+    aboutAuthor: `Amy Krouse Rosenthal is a person who likes to make things.
+    Some things she likes to make:
+
+    Children's books.
+    Grown-up books.
+    Short videos.
+    Speeches.
+    Salads.
+    Connections with the universe.
+    Something out of nothing.
+    Wishes.
+
+    According to The New York Times, Amy's award-winning children's books "radiate fun the way tulips radiate spring: they are elegant and spirit-lifting."
+
+    Her 30+ books for children include UNI THE UNICORN, I WISH YOU MORE, EXCLAMATION MARK, LITTLE PEA, SPOON, CHOPSTICKS, DUCK!RABBIT! and PLANT A KISS.
+
+    Amy's alphabetized memoir ENCYCLOPEDIA OF AN ORDINARY LIFE was named one of Amazon's top 10 memoirs of the decade. She is also the creator of a specialty line of keepsake journals.
+
+    Amy is a contributor to public radio, YouTube (THE BECKONING OF LOVELY, THE MONEY TREE) and TED (7 NOTES ON LIFE).
+
+    Amy resides on a tree-lined street in Chicago and online at whoisamy.com`
   }
 ]
 
