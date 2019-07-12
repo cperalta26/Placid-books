@@ -385,6 +385,84 @@ const authors = [
     For more than six years, Jory worked as the programs director at 826 Valencia, a nonprofit writing and educational center in San Francisco's Mission District, founded by Dave Eggers. In that time, he conceptualized and edited, "Thanks and Have Fun Running the Country: Kids' Letters to President Obama," which was featured on "This American Life."
 
     Find Jory at www.joryjohn.com or on Twitter @IamJoryJohn`
+  },
+  {
+    firstName: `Susan`,
+    lastName: `Verde`,
+    aboutAuthor: `Susan Verde grew up in a brownstone in the heart of Greenwich Village in New York City with her older brother Michael. She spent much of her time as a child clad in bell bottoms and rainbow suspenders, roller skating up and down her block with a skate key around her neck and a piece of chalk in her pocket (for spontaneous hopscotch).
+    Susan's household was filled with books, music and the smell of mocha chip pies, which her mother made for their neighborhood restaurant. Susan often wrote stories and poetry to share with family and friends and even her high school poetry magazine. Susan's love of literature began in utero (according to her mother) and never dwindled. She can, to this day relate very well to Amelia Bedelia.
+    Ultimately, she moved to the Hamptons and earned a Bachelor's Degree in Elementary Education and a Master's in reading remediation and become an elementary school teacher at a private school in Bridgehampton. She has also participated in the Southampton Children's Literature Conference at Stonybrook University.
+    Although no longer a school teacher, Susan is a certified kid's yoga instructor which allows her to frog jump and wag her tail in Downward facing dog with great frequency.
+    Currently, Susan lives in East Hampton New York amidst an explosion of Legos, art supplies, and picture books with her twin boys Joshua and Gabriel and her daughter Sophia. They are the constant inspiration for her writing. They never let her forget how to see things from a child's point of view and keep the kid in her alive and kicking.`
+  },
+  {
+    firstName: `Beth`,
+    lastName: `Ferry`,
+    aboutAuthor: `Beth Ferry reads and writes by the beach in New Jersey. She is the author of many picture books illustrated by many amazing artists. You can find out more at bethferry.com.`
+  },
+  {
+    firstName: `Peter`,
+    lastName: `Brown`,
+    aboutAuthor: `Peter Brown writes and illustrates books for young whippersnappers. He grew up in Hopewell, New Jersey, where he spent his time imagining and drawing silly characters. He studied Life Lessons at the School of Hard Knocks, and then got his B.F.A. in Illustration from Art Center College of Design in Pasadena, California.
+    
+    After college Peter moved to Brooklyn, New York and spent several years painting backgrounds for animated TV shows. And then in 2003 he got a book deal to write and illustrate his first picture book FLIGHT OF THE DODO, which is a story that involves bird poop...in case you're into that kind of thing. Since then he's written and illustrated three more picture books, and illustrated several other books for young whippersnappers. His books have been adapted into plays and animated short films, they have been translated into a dozen languages, and they include the 2010 E.B. White award winner, Children's Choice Award winner, and New York Times bestselling books THE CURIOUS GARDEN.
+    
+    His books CHILDREN MAKE TERRIBLE PETS, YOU WILL BE MY FRIEND! and his latest book, CREEPY CARROTS! are also New York Times bestsellers and award winners. CREEPY CARROTS! written by Aaron Reynolds has also been named a 2013 Caldecott Honor book.
+    
+    You can find out more about Peter and his books at peterbrownstudio.com`
+  },
+  {
+    firstName: `Bridget`,
+    lastName: `Heos`,
+    aboutAuthor: `Bridget Heos is the author of THE MUSTACHE BABY series (illustrator: Joy Ang), STEGOTHESAURUS (T.L. McBeth), FAIRY'S FIRST DAY OF SCHOOL (Sara Not), TWINKLE, TWINKLE, LITTLE LAMB (Sarah Jennings), and QUEEN DOG (Alejandro O'Keefe). She has also written more than 100 nonfiction children's titles, including I, FLY (Jennifer Plecas), the ANIMALS: JUST LIKE US series (David Clark), and BLOOD, BULLETS, AND BONES: THE STORY OF FORENSIC SCIENCE FROM SHERLOCK HOLMES TO DNA. Bridget lives in Kansas City with her family.
+    authorbridgetheos.com
+    Facebook: @Author Bridget Heos
+    Twitter: @BridgetHeos.`
+  },
+  {
+    firstName: `Rachel`,
+    lastName: `Fuller`,
+    aboutAuthor: `Rachel Fuller (born 24 July 1973) is a British musician. She is a successful independent pop music artist, a composer, and occasional collaborator with rock musician and partner Pete Townshend.
+    Bio from Wikipedia, the free encyclopedia. Photo by Koos Fernhout [CC BY 2.0 (http://creativecommons.org/licenses/by/2.0)], via Wikimedia Commons.`
+  },
+  {
+    firstName: `Watty`,
+    lastName: `Pipper`,
+    aboutAuthor: `Watty Piper was a pen name of Arnold Munk, who was the owner of the publishing firm Platt & Munk. Arnold Munk was born in Hungary, and as a child, moved with his family to the United States, settling in Chicago. Later he moved to New York. Platt & Munk's offices were at 200 Fifth Avenue until 1957 when Arnold Munk died. Arnold Munk used the name Watty Piper as both an author of children's books and as the editor of many of the books that Platt & Munk published.
+    Bio from Wikipedia, the free encyclopedia.`
+  },
+  {
+    firstName: `Aaron`,
+    lastName: `Zenz`,
+    aboutAuthor: ``
+  },
+  {
+    firstName: `Paula`,
+    lastName: `Croyle`,
+    aboutAuthor: ``
+  },
+  {
+    firstName: `Rod`,
+    lastName: `Campbell`,
+    aboutAuthor: `Rod Campbell makes books for babies and toddlers, the best known being Dear Zoo, which has sold over two million copies worldwide. All his books have simple text, often with repeating phrases, ideal for the pre-reader. He uses flaps and touch-and-feel elements when appropriate.`
+  },
+  {
+    firstName: `Beatrix`,
+    lastName: `Potter`,
+    aboutAuthor: ``
+  },
+  {
+    firstName: `Don`,
+    lastName: `Freeman`,
+    aboutAuthor: `Don Freeman was born in San Diego, California, in 1908. At an early age, he received a trumpet as a gift from his father. He practiced obsessively and eventually joined a California dance band. After graduating from high school, he ventured to New York City to study art under the tutelage of Joan Sloan and Harry Wickey at the Art Students' League. He managed to support himself throughout his schooling by playing his trumpet evenings, in nightclubs and at weddings.
+    
+    Gradually, he eased into making a living sketching impressions of Broadway shows for The New York Times and The Herald Tribune. This shift was helped along, in no small part, by a rather heartbreaking incident: he lost his trumpet. One evening, he was so engrossed in sketching people on the subway, he simply forgot it was sitting on the seat beside him. This new career turned out to be a near-perfect fit for Don, though, as he had always loved the theater.
+    
+    He was introduced to the world of children’s literature when William Saroyan asked him to illustrate several books. Soon after, he began to write and illustrate his own books, a career he settled into comfortably and happily. Through his writing, he was able to create his own theater: "I love the flow of turning the pages, the suspense of what's next. Ideas just come at me and after me. It's all so natural. I work all the time, long into the night, and it's such a pleasure. I don't know when the time ends. I've never been happier in my life!"
+    
+    Don died in 1978, after a long and successful career. He created many beloved characters in his lifetime, perhaps the most beloved among them a stuffed, overall-wearing bear named Corduroy.
+    
+    Don Freeman was the author and illustrator of many popular books for children, including Corduroy, A Pocket for Corduroy, and the Caldecott Honor Book Fly High, Fly Low.`
   }
 ]
 
